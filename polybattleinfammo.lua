@@ -1,7 +1,1 @@
--- Polybattle infinite ammo
-game:GetService('RunService').Stepped:Connect(function()
-    pcall(function()
-        game.Players.LocalPlayer.PlayerGui.ScreenGui.Right.ScaleYY.Bottom.EQ.Ammo.Ammo.Text = 'inf'
-        require(game.Players.LocalPlayer.Character:FindFirstChildOfClass('Folder').config).AMMO = 2
-    end)
-end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sy-ph/scripts/main/polyammorous.lua"))();
