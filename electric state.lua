@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/migu-star/Scripts/main/ElectricStateX.lua"))()
